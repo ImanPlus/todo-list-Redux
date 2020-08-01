@@ -26,3 +26,4 @@ TodoList.prototype = {
   ).isRequired,
   toggleTodo: PropTypes.func.isRequired
 }
+export default TodoList
